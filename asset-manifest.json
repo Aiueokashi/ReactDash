@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ReactDash/static/css/main.d1b05096.chunk.css",
+    "main.js": "/ReactDash/static/js/main.46a4acea.chunk.js",
+    "main.js.map": "/ReactDash/static/js/main.46a4acea.chunk.js.map",
+    "runtime-main.js": "/ReactDash/static/js/runtime-main.5ebf1c33.js",
+    "runtime-main.js.map": "/ReactDash/static/js/runtime-main.5ebf1c33.js.map",
+    "static/js/2.b9a68bad.chunk.js": "/ReactDash/static/js/2.b9a68bad.chunk.js",
+    "static/js/2.b9a68bad.chunk.js.map": "/ReactDash/static/js/2.b9a68bad.chunk.js.map",
+    "index.html": "/ReactDash/index.html",
+    "precache-manifest.ae04b019620d88440ed330033376771a.js": "/ReactDash/precache-manifest.ae04b019620d88440ed330033376771a.js",
+    "service-worker.js": "/ReactDash/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/ReactDash/static/css/main.d1b05096.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ebf1c33.js",
+    "static/js/2.b9a68bad.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.46a4acea.chunk.js"
+  ]
+}
